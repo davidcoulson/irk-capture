@@ -70,8 +70,8 @@ mdns:
 external_components:
   - source:
       type: git
-      url: https://github.com/DerekSeaman/irk-capture
-      ref: main
+      url: https://github.com/davidcoulson/irk-capture
+      ref: try/request-bt-idf-component
     components: [irk_capture]
     refresh: always
 
